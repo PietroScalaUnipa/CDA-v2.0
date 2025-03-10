@@ -182,7 +182,7 @@ class NumberInputDialog(QDialog):
         self.layout.addWidget(note_lll)
 
         # Crea una QLabel per il testo del link
-        link_label = QLabel('<a href="https://github.com/PietroScalaUnipa/CDA">Click here</a>')
+        link_label = QLabel('<a href="https://github.com/PietroScalaUnipa/CDA-v2.0">Click here</a>')
         link_label.setOpenExternalLinks(True)  # Apre il link nel browser esterno quando viene cliccato
         link_label.setAlignment(Qt.AlignRight)  # Imposta l'allineamento a destra
 
