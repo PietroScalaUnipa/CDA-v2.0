@@ -46,16 +46,20 @@ Even when a process is successful, a message may appear on the screen stating, â
 
 # ABA Metrics
 ![image](https://github.com/user-attachments/assets/af9761bf-e968-4e65-9d9a-affa9a2283ac)
+
 To obtain linear rates using the ABA approach, the average shoreline displacement is calculated by dividing the area bounded by the transects, shoreline and baseline, by the length of the shoreline between two different transects. This simple geometric ratio is then used to calculate by the plug-in further average rates of shoreline change, including M-NSM [m], M-SCE [m], M-EPR [m/time] and M-LRR [m/time].
 
-Click here to download the User Manual of CDA v.2.0 [CDA_User_Manual_v2_0_0.pdf](https://github.com/user-attachments/files/19162605/CDA_User_Manual_v2_0_0.pdf)
+# Click here to download the User Manual of CDA v.2.0 [CDA_User_Manual_v2_0_0.pdf](https://github.com/user-attachments/files/19162605/CDA_User_Manual_v2_0_0.pdf)
 
-Example Results:
+# Example Results:
 ![image](https://github.com/user-attachments/assets/39fbe657-c1c6-4ba9-92e8-0e7b39d6deb5)
 
 
-Reference to https://doi.org/10.1016/j.softx.2024.101894
-Cite as Scala et al., 2024 (CDA v1.0); Scala et al., 2025 (Update to CDA v1.0) SoftwareX Elsevier paper
+# Reference to 
+https://doi.org/10.1016/j.softx.2024.101894
+
+# Cite as 
+Scala et al., 2024 (CDA v1.0); Scala et al., 2025 (Update to CDA v1.0) SoftwareX Elsevier paper
 
 
 
