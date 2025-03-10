@@ -9,11 +9,11 @@ The latest version, **CDA-v2.0**, introduces **Area-Based Analysis (ABA)**, offe
 
 ## 🚀 Features  
 
-- ✅ Automatic **Shoreline Change Analysis (SCA)**  
-- ✅ New **Area-Based Analysis (ABA)** for enhanced accuracy  
-- ✅ Seamless integration with **QGIS**  
-- ✅ User-friendly interface for efficient analysis  
-- ✅ Support for multiple shoreline datasets  
+ ✅ Automatic **Shoreline Change Analysis (SCA)**  
+ ✅ New **Area-Based Analysis (ABA)** for enhanced accuracy  
+ ✅ Seamless integration with **QGIS**  
+ ✅ User-friendly interface for efficient analysis  
+ ✅ Support for multiple shoreline datasets  
 
 ## 📥 Installation  
 
